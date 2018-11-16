@@ -1,0 +1,11 @@
+.btn-info-hover:hover {
+    color: #17a2b8 !important;
+    background-color: rgb(255, 255, 255) !important;
+    border-color: #17a2b8 !important;
+}
+
+btn-success-hover:hover {
+    color: #28a745 !important;
+    background-color: #fff !important;
+    border-color: #28a745 !important;
+}
